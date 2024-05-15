@@ -1,0 +1,12 @@
+name: skincare
+title: skincare
+username: datavisu
+account: datavisu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12003464
+bundleId: 8616263
+url: https://datavisu.shinyapps.io/skincare/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
